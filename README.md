@@ -1,0 +1,2 @@
+# CrazyCraftMC
+GitHub Pages
